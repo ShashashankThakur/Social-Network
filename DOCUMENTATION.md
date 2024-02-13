@@ -50,7 +50,18 @@ For detailed usage instructions, refer to the [`README.md`](README.md) file.
 
 ## Sample Social Network Data
 
-The sample social network data provided in the `social_network` variable represents a small social network.
+The sample social network data provided in the `social_network` variable represents the following connections:
+- **Alice**: Bob, Charlie, David, Emma
+- **Bob**: Alice, David, Emma, Hannah
+- **Charlie**: Alice, David, Frank, Isabel
+- **David**: Alice, Bob, Charlie, Emma, Jake
+- **Emma**: Alice, Bob, David, Hannah, Kate
+- **Frank**: Charlie, George, Hannah
+- **George**: Frank, Isabel, Kate
+- **Hannah**: Bob, Emma, Frank, Isabel, Jake
+- **Isabel**: Charlie, George, Hannah
+- **Jake**: David, Hannah
+- **Kate**: Emma, George
 
 ## License
 
