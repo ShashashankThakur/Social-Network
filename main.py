@@ -136,12 +136,14 @@ social_network = {
     'David': ['Alice', 'Bob', 'Charlie']
 }
 
-# Create social network analyzer object
-analyzer = SocialNetworkAnalyzer(social_network)
-analyzer.build_network()
 
-# Visualize network
-analyzer.visualize_network()
+if __name__ == "__main__":
+    # Create social network analyzer object
+    analyzer = SocialNetworkAnalyzer(social_network)
+    analyzer.build_network()
 
-# Interactive analysis
-analyzer.interactive_analysis()
+    # Visualize network
+    analyzer.visualize_network()
+
+    # Interactive analysis
+    analyzer.interactive_analysis()
