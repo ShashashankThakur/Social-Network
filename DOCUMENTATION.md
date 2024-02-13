@@ -46,7 +46,7 @@ The `SocialNetworkAnalyzer` class provides functionalities to analyze and visual
 3. Run the `main.py` script to start the program.
 4. Follow the interactive menu to perform different analyses on the social network graph.
 
-For detailed usage instructions, refer to the `README.md` file.
+For detailed usage instructions, refer to the [`README.md`](README.md) file.
 
 ## Sample Social Network Data
 
