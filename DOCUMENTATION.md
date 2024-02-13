@@ -8,7 +8,7 @@ The project consists of the following files:
 
 - `main.py`: Main Python script implementing the social network analysis tool.
 - `README.md`: README file providing information about the project, installation instructions, usage, and license details.
-- `documentation.md`: Documentation file providing detailed information about the project structure, classes and methods, usage instructions, and sample social network data.
+- `DOCUMENTATION.md`: Documentation file providing detailed information about the project structure, classes and methods, usage instructions, and sample social network data.
 - `requirements.txt`: File listing dependencies required to run the project.
 
 ## Classes and Methods
