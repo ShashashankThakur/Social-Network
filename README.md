@@ -10,7 +10,7 @@ This project is a Python-based social network analysis tool that allows users to
 - Detect communities within the network
 - Find the shortest path between two people
 
-Refer `DOCUMENTATION.md` for more.
+Refer to [`DOCUMENTATION.md`](DOCUMENTATION.md) for more.
 
 ## Installation
 
