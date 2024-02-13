@@ -8,7 +8,9 @@ This project is a Python-based social network analysis tool that allows users to
 - Calculate degree centrality
 - Calculate clustering coefficients
 - Detect communities within the network
-- Find shortest path between two people
+- Find the shortest path between two people
+
+Refer `DOCUMENTATION.md` for more.
 
 ## Installation
 
