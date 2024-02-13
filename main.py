@@ -130,10 +130,17 @@ class SocialNetworkAnalyzer:
 
 # Sample social network data
 social_network = {
-    'Alice': ['Bob', 'Charlie', 'David'],
-    'Bob': ['Alice', 'David'],
-    'Charlie': ['Alice', 'David'],
-    'David': ['Alice', 'Bob', 'Charlie']
+    'Alice': ['Bob', 'Charlie', 'David', 'Emma'],
+    'Bob': ['Alice', 'David', 'Emma', 'Hannah'],
+    'Charlie': ['Alice', 'David', 'Frank', 'Isabel'],
+    'David': ['Alice', 'Bob', 'Charlie', 'Emma', 'Jake'],
+    'Emma': ['Alice', 'Bob', 'David', 'Hannah', 'Kate'],
+    'Frank': ['Charlie', 'George', 'Hannah'],
+    'George': ['Frank', 'Isabel', 'Kate'],
+    'Hannah': ['Bob', 'Emma', 'Frank', 'Isabel', 'Jake'],
+    'Isabel': ['Charlie', 'George', 'Hannah'],
+    'Jake': ['David', 'Hannah'],
+    'Kate': ['Emma', 'George']
 }
 
 
