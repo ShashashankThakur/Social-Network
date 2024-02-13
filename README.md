@@ -32,7 +32,7 @@ This project is a Python-based social network analysis tool that allows users to
 
 ## Usage
 
-Run the `social_network_analysis.py` file to start the program. Follow the interactive menu to perform various analyses on the social network graph.
+Run the `main.py` file to start the program. Follow the interactive menu to perform various analyses on the social network graph.
 
 ```bash
-python social_network_analysis.py
+python main.py
