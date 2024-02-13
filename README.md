@@ -1,6 +1,6 @@
 # Social Network Analysis Tool
 
-This project is a Python-based social network analysis tool that allows users to analyze and visualize a social network graph. The tool provides functionalities such as degree centrality, clustering coefficients, community detection, and shortest path calculation.
+This project is a Python-based social network analysis tool that allows users to analyze and visualize a social network graph. The tool provides functionalities such as degree centrality, clustering coefficients, community detection, and shortest path calculation. This project is a submission for Major League Hacking: Global Hack Week on DevPost.
 
 ## Features
 
