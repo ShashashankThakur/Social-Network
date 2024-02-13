@@ -6,7 +6,7 @@ This document provides an overview of the social network analysis tool implement
 
 The project consists of the following files:
 
-- `social_network_analysis.py`: Main Python script implementing the social network analysis tool.
+- `main.py`: Main Python script implementing the social network analysis tool.
 - `README.md`: README file providing information about the project, installation instructions, usage, and license details.
 - `documentation.md`: Documentation file providing detailed information about the project structure, classes and methods, usage instructions, and sample social network data.
 - `requirements.txt`: File listing dependencies required to run the project.
@@ -43,19 +43,14 @@ The `SocialNetworkAnalyzer` class provides functionalities to analyze and visual
 
 1. Clone the repository and navigate to the project directory.
 2. Install dependencies using `pip install -r requirements.txt`.
-3. Run the `social_network_analysis.py` script to start the program.
+3. Run the `main.py` script to start the program.
 4. Follow the interactive menu to perform different analyses on the social network graph.
 
 For detailed usage instructions, refer to the `README.md` file.
 
 ## Sample Social Network Data
 
-The sample social network data provided in the `social_network` variable represents a small social network with the following connections:
-
-- Alice is connected to Bob, Charlie, and David.
-- Bob is connected to Alice and David.
-- Charlie is connected to Alice and David.
-- David is connected to Alice, Bob, and Charlie.
+The sample social network data provided in the `social_network` variable represents a small social network.
 
 ## License
 
